@@ -1,0 +1,7 @@
+Jadi ini source code yang saya gunakan.
+Saya butuh edit kodingan sebagai berikut:
+
+- Membutuhkan merubah icon search (di gambar "Screenshot_19.png" yang saya beri kotak merah) menjadi dropdown bahasa seperti gambar "Screenshot_1.png"
+- Pada gambar "Screenshot_2.png" saya tes menggunakan layar Hp ada beberapa jenis tidak responsif tata letaknya, dia memikiki space antara header dengan body. 
+Sebagai contoh yang benar ada di gambar "Screenshot_3.png", jadi di sini saya minta perbiki CSS untuk tidak seperti gambar "Screenshot_2.png" di berbagai jenis ukuran device hp
+Nb: untuk lihat gambar bisa cek di folder Gambar Revisi
